@@ -9,7 +9,7 @@
 
 
 # Документация API
-Matching «Prosept» products - [API redoc](https://clownvkkaschenko.github.io/MatchingProducts/)
+Matching «Prosept» products - [API redoc](https://kaschenkkko.github.io/MatchingProducts/)
 
 # Описание проекта
 «Просепт» производит несколько сотен различных товаров бытовой и промышленной химии, а затем продаёт эти товары через дилеров. Дилеры, в свою очередь, занимаются розничной продажей товаров в крупных сетях магазинов и на онлайн площадках.
